@@ -1,0 +1,19 @@
+{
+    "name": "site/termos",
+    "description": "Site atividade ads",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alerrandro Borges",
+            "email": "alerrandrokaton@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\":"App"
+        }
+    },
+    "require": {}
+}
